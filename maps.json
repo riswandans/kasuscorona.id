@@ -103,5 +103,10 @@
     "Daerah": "Riau",
     "Koordinat": "0.5232428,101.4522241",
     "Radius": 5000
+  },
+  {
+    "Daerah": "Mangunjaya",
+    "Koordinat": "-6.2362727,107.0404613",
+    "Radius": 2000
   }
 ]
