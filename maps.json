@@ -81,12 +81,17 @@
   },
   {
     "Daerah": "Lampung",
-    "Koordinat": "-4.670965, 105.317508",
+    "Koordinat": "-4.9075381,104.1481579",
     "Radius": 2000
   },
   {
     "Daerah": "Kalimantan Timur",
     "Koordinat": "0.322035, 116.592028",
+    "Radius": 10000
+  },
+  {
+    "Daerah": "Sumatera Utara",
+    "Koordinat": "3.590129, 98.671514",
     "Radius": 10000
   },
   {
