@@ -1,7 +1,7 @@
 [
   {
     "Wilayah": "Belum diketahui",
-    "Jumlah": 95
+    "Jumlah": 94
   },
   {
     "Wilayah": "DKI Jakarta",
@@ -35,6 +35,10 @@
     "Wilayah": "Sulawesi Utara",
     "Jumlah": 1
   },
+  {
+    "Wilayah": "Kepulauan Riau",
+    "Jumlah": 1
+  }
   {
     "Wilayah": "Denpasar",
     "Jumlah": 1
