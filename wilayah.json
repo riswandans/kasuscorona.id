@@ -1,7 +1,7 @@
 [
   {
     "Wilayah": "Belum diketahui",
-    "Jumlah": 102
+    "Jumlah": 95
   },
   {
     "Wilayah": "DKI Jakarta",
@@ -12,12 +12,16 @@
     "Jumlah": 11
   },
   {
-    "Wilayah": "Banten",
-    "Jumlah": 5
+    "Wilayah": "Jawa Tengah",
+    "Jumlah": 6
   },
   {
-    "Wilayah": "Jawa Tengah",
-    "Jumlah": 4
+    "Wilayah": "Jawa Timur",
+    "Jumlah": 6
+  },
+  {
+    "Wilayah": "Banten",
+    "Jumlah": 5
   },
   {
     "Wilayah": "Kalimantan Barat",
