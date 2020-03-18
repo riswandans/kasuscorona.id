@@ -1,0 +1,82 @@
+[
+  {
+    "Daerah": "Pontianak",
+    "Koordinat": "-0.060,109.534",
+    "Radius": 10000
+  },
+  {
+    "Daerah": "Depok",
+    "Koordinat": "-6.4183,106.8173",
+    "Radius": 6000
+  },
+  {
+    "Daerah": "Depok",
+    "Koordinat": "-6.1979,106.8242",
+    "Radius": 10000
+  },
+  {
+    "Daerah": "Surakarta",
+    "Koordinat": "-7.5994,110.8438",
+    "Radius": 3000
+  },
+  {
+    "Daerah": "Denpasar",
+    "Koordinat": "-8.6757888,115.2131711",
+    "Radius": 4000
+  },
+  {
+    "Daerah": "Bekasi",
+    "Koordinat": "-6.2629255,107.0040023",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Purwokerto",
+    "Koordinat": "-6.5799212,107.4362271",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Bandung",
+    "Koordinat": "-6.9478243,107.5724546",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Cianjur",
+    "Koordinat": "-7.131024, 107.115172",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Cirebon",
+    "Koordinat": "-6.739552, 108.562515",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Yogyakarta",
+    "Koordinat": "-7.7686163,110.3734742",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Tangerang",
+    "Koordinat": "-6.2400938,106.6873494",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Tangerang Selatan",
+    "Koordinat": "-6.268598, 106.710086",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Sulawesi Utara",
+    "Koordinat": "1.4534666,124.8076358",
+    "Radius": 10000
+  },
+  {
+    "Daerah": "Surabaya",
+    "Koordinat": "-7.265444, 112.749028",
+    "Radius": 6000
+  },
+  {
+    "Daerah": "Tanjung Pinang",
+    "Koordinat": "0.912824, 104.471383",
+    "Radius": 10000
+  }
+]
