@@ -98,5 +98,10 @@
     "Daerah": "Tanjung Pinang",
     "Koordinat": "0.912824, 104.471383",
     "Radius": 10000
+  },
+  {
+    "Daerah": "Riau",
+    "Koordinat": "0.5232428,101.4522241",
+    "Radius": 5000
   }
 ]
