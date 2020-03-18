@@ -1,27 +1,27 @@
 [
   {
-    "Wilayah": "Belum diketahui",
-    "Jumlah": 43
-  },
-  {
     "Wilayah": "DKI Jakarta",
-    "Jumlah": 125
+    "Jumlah": 160
   },
   {
     "Wilayah": "Jawa Barat",
     "Jumlah": 23
   },
   {
-    "Wilayah": "Jawa Tengah",
-    "Jumlah": 9
+    "Wilayah": "Banten",
+    "Jumlah": 10
   },
   {
-    "Wilayah": "Banten",
+    "Wilayah": "Jawa Tengah",
     "Jumlah": 9
   },
   {
     "Wilayah": "Jawa Timur",
     "Jumlah": 8
+  },
+  {
+    "Wilayah": "Belum diketahui",
+    "Jumlah": 7
   },
   {
     "Wilayah": "Yogyakarta",
@@ -45,6 +45,10 @@
   },
   {
     "Wilayah": "Lampung",
+    "Jumlah": 1
+  },
+  {
+    "Wilayah": "Riau",
     "Jumlah": 1
   },
   {
