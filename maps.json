@@ -75,6 +75,21 @@
     "Radius": 6000
   },
   {
+    "Daerah": "Magelang",
+    "Koordinat": "-7.4752226,110.200701",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Lampung",
+    "Koordinat": "-4.670965, 105.317508",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Kalimantan Timur",
+    "Koordinat": "0.322035, 116.592028",
+    "Radius": 10000
+  },
+  {
     "Daerah": "Tanjung Pinang",
     "Koordinat": "0.912824, 104.471383",
     "Radius": 10000
