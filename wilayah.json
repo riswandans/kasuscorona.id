@@ -4,8 +4,12 @@
     "Jumlah": 160
   },
   {
+    "Wilayah": "Belum diketahui",
+    "Jumlah": 18
+  },
+  {
     "Wilayah": "Jawa Barat",
-    "Jumlah": 23
+    "Jumlah": 12
   },
   {
     "Wilayah": "Banten",
@@ -19,10 +23,7 @@
     "Wilayah": "Jawa Timur",
     "Jumlah": 8
   },
-  {
-    "Wilayah": "Belum diketahui",
-    "Jumlah": 6
-  },
+
   {
     "Wilayah": "Yogyakarta",
     "Jumlah": 2
