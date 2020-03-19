@@ -1,29 +1,44 @@
 [
   {
     "Wilayah": "DKI Jakarta",
-    "Jumlah": 208
-  },
-  {
-    "Wilayah": "Belum diketahui",
-    "Jumlah": 43
+    "Jumlah": 210
   },
   {
     "Wilayah": "Jawa Barat",
-    "Jumlah": 22
+    "Jumlah": 26
+  },
+  {
+    "Wilayah": "Belum diketahui",
+    "Jumlah": 23
+  },
+  {
+    "Wilayah": "Jawa Tengah",
+    "Jumlah": 12
   },
   {
     "Wilayah": "Banten",
     "Jumlah": 10
   },
   {
-    "Wilayah": "Jawa Tengah",
-    "Jumlah": 10
+    "Wilayah": "Jawa Timur",
+    "Jumlah": 9
   },
   {
-    "Wilayah": "Jawa Timur",
-    "Jumlah": 8
+    "Wilayah": "Kalimantan Timur",
+    "Jumlah": 3
   },
-
+  {
+    "Wilayah": "Kepulauan Riau",
+    "Jumlah": 3
+  },
+  {
+    "Wilayah": "Sulawesi Tenggara",
+    "Jumlah": 3
+  },
+  {
+    "Wilayah": "Sulawesi Selatan",
+    "Jumlah": 2
+  },
   {
     "Wilayah": "Yogyakarta",
     "Jumlah": 2
@@ -33,27 +48,19 @@
     "Jumlah": 2
   },
   {
-    "Wilayah": "Kalimantan Timur",
-    "Jumlah": 1
+    "Wilayah": "Sumatera Utara",
+    "Jumlah": 2
+  },
+  {
+    "Wilayah": "Riau",
+    "Jumlah": 2
   },
   {
     "Wilayah": "Sulawesi Utara",
     "Jumlah": 1
   },
   {
-    "Wilayah": "Kepulauan Riau",
-    "Jumlah": 1
-  },
-  {
     "Wilayah": "Lampung",
-    "Jumlah": 1
-  },
-  {
-    "Wilayah": "Riau",
-    "Jumlah": 1
-  },
-  {
-    "Wilayah": "Sumatera Utara",
     "Jumlah": 1
   },
   {
