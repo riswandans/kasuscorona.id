@@ -9,7 +9,7 @@
   },
   {
     "Wilayah": "Belum diketahui",
-    "Jumlah": 23
+    "Jumlah": 20
   },
   {
     "Wilayah": "Jawa Tengah",
@@ -22,6 +22,10 @@
   {
     "Wilayah": "Jawa Timur",
     "Jumlah": 9
+  },
+  {
+    "Wilayah": "Yogyakarta",
+    "Jumlah": 5
   },
   {
     "Wilayah": "Kalimantan Timur",
@@ -37,10 +41,6 @@
   },
   {
     "Wilayah": "Sulawesi Selatan",
-    "Jumlah": 2
-  },
-  {
-    "Wilayah": "Yogyakarta",
     "Jumlah": 2
   },
   {
