@@ -108,5 +108,20 @@
     "Daerah": "Mangunjaya",
     "Koordinat": "-6.2362727,107.0404613",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Sulawesi Tenggara",
+    "Koordinat": "-3.9084783,122.0631069",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Sulawesi Tenggara",
+    "Koordinat": "-3.2629567,120.6001122",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Sulawesi Selatan",
+    "Koordinat": "-5.134494,119.4922851",
+    "Radius": 2000
   }
 ]
