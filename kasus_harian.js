@@ -232,27 +232,40 @@ window.onload = function() {
         ]
     });
     var wilayah = [];
+    var sembuh = [];
+    var meninggal = [];
     var kasusperwilayah = new CanvasJS.Chart("rata_kasus", {
         animationEnabled: true,
-
+        theme: "light2",
         title: {
             text: "Statistik COVID-19 di Indonesia"
         },
         axisX: {
             interval: 1
         },
-        axisY2: {
-            interlacedColor: "white",
-            gridColor: "rgba(1,77,101,.1)",
-            title: "Jumlah Kasus Per Wilayah"
-        },
+
         data: [{
-            type: "bar",
-            name: "companies",
-            axisYType: "secondary",
-            color: "#014D65",
-            dataPoints: wilayah
-        }]
+                type: "bar",
+                showInLegend: true,
+                name: "Kasus",
+                color: "orange",
+                dataPoints: wilayah
+            },
+            {
+                type: "bar",
+                showInLegend: true,
+                name: "Meninggal",
+                color: "#E33C07",
+                dataPoints: meninggal
+            },
+            {
+                type: "bar",
+                showInLegend: true,
+                name: "Sembuh",
+                color: "green",
+                dataPoints: sembuh
+            }
+        ]
     });
     kasusharian.render();
 
@@ -264,8 +277,19 @@ window.onload = function() {
                 y: data[i].Jumlah
             });
         }
+        for (var i = 0; i < data.length; i++) {
+            sembuh.push({
+                label: data[i].Wilayah,
+                y: data[i].Sembuh
+            });
+        }
+        for (var i = 0; i < data.length; i++) {
+            meninggal.push({
+                label: data[i].Wilayah,
+                y: data[i].Meninggal
+            });
+        }
         kasusperwilayah.render();
-
     }
 
     function toogleDataSeries(e) {
