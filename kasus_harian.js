@@ -87,7 +87,7 @@ window.onload = function() {
                     },
                     {
                         x: new Date(2020, 02, 19),
-                        y: 309
+                        y: 308
                     }
                 ]
             },
