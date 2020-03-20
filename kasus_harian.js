@@ -257,6 +257,7 @@ window.onload = function() {
     kasusharian.render();
 
     function addData(data) {
+        data.reverse();
         for (var i = 0; i < data.length; i++) {
             wilayah.push({
                 label: data[i].Wilayah,
