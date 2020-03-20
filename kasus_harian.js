@@ -231,7 +231,41 @@ window.onload = function() {
             },
         ]
     });
+    var wilayah = [];
+    var kasusperwilayah = new CanvasJS.Chart("rata_kasus", {
+        animationEnabled: true,
+
+        title: {
+            text: "Statistik COVID-19 di Indonesia"
+        },
+        axisX: {
+            interval: 1
+        },
+        axisY2: {
+            interlacedColor: "rgba(1,77,101,.2)",
+            gridColor: "rgba(1,77,101,.1)",
+            title: "Jumlah Kasus"
+        },
+        data: [{
+            type: "bar",
+            name: "companies",
+            axisYType: "secondary",
+            color: "#014D65",
+            dataPoints: wilayah
+        }]
+    });
     kasusharian.render();
+
+    function addData(data) {
+        for (var i = 0; i < data.length; i++) {
+            wilayah.push({
+                label: data[i].Wilayah,
+                y: data[i].Jumlah
+            });
+        }
+        kasusperwilayah.render();
+
+    }
 
     function toogleDataSeries(e) {
         if (typeof(e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
@@ -241,4 +275,5 @@ window.onload = function() {
         }
         kasusharian.render();
     }
+    $.getJSON("wilayah.json", addData);
 }
