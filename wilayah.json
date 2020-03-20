@@ -2,65 +2,97 @@
   {
     "Wilayah": "DKI Jakarta",
     "Jumlah": 210
+    "Sembuh": 13,
+    "Meninggal": 17
   },
   {
     "Wilayah": "Banten",
     "Jumlah": 27
+    "Sembuh": 1,
+    "Meninggal": 1
   },
   {
     "Wilayah": "Jawa Barat",
     "Jumlah": 26
+    "Sembuh": 1,
+    "Meninggal": 1
   },
   {
     "Wilayah": "Jawa Tengah",
     "Jumlah": 12
+    "Sembuh": 0,
+    "Meninggal": 3
   },
   {
     "Wilayah": "Jawa Timur",
     "Jumlah": 9
+    "Sembuh": 0,
+    "Meninggal": 1
   },
   {
     "Wilayah": "DI Yogyakarta",
     "Jumlah": 5
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Kalimantan Timur",
     "Jumlah": 3
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Kepulauan Riau",
     "Jumlah": 3
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Sulawesi Tenggara",
     "Jumlah": 3
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Sulawesi Selatan",
     "Jumlah": 2
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Kalimantan Barat",
     "Jumlah": 2
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Sumatera Utara",
     "Jumlah": 2
+    "Sembuh": 0,
+    "Meninggal": 1
   },
   {
     "Wilayah": "Riau",
     "Jumlah": 2
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Sulawesi Utara",
     "Jumlah": 1
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Lampung",
     "Jumlah": 1
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Denpasar",
     "Jumlah": 1
+    "Sembuh": 0,
+    "Meninggal": 1
   }
 ]
