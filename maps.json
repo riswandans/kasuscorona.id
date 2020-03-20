@@ -148,5 +148,10 @@
     "Daerah": "Bogor",
     "Koordinat": "-6.575714, 106.807528",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Palangka raya",
+    "Koordinat": "-2.210970, 113.922664",
+    "Radius": 2000
   }
 ]
