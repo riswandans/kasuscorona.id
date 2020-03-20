@@ -242,7 +242,7 @@ window.onload = function() {
             interval: 1
         },
         axisY2: {
-            interlacedColor: "rgba(1,77,101,.2)",
+            interlacedColor: "white",
             gridColor: "rgba(1,77,101,.1)",
             title: "Jumlah Kasus Per Wilayah"
         },
