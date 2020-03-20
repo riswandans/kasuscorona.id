@@ -143,5 +143,10 @@
     "Daerah": "Semarang",
     "Koordinat": "-6.993801, 110.408145",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Bogor",
+    "Koordinat": "-6.575714, 106.807528",
+    "Radius": 2000
   }
 ]
