@@ -238,7 +238,7 @@ window.onload = function() {
         animationEnabled: true,
         theme: "light2",
         title: {
-            text: "Statistik COVID-19 di Indonesia"
+            text: ""
         },
         axisX: {
             interval: 1
