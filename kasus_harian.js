@@ -277,7 +277,7 @@ window.onload = function() {
         },
         legend: {
             cursor: "pointer",
-            verticalAlign: "top",
+            verticalAlign: "bottom",
             horizontalAlign: "center",
             dockInsidePlotArea: true,
             fontFamily: "arial"
