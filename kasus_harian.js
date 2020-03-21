@@ -13,7 +13,7 @@ window.onload = function() {
             title: "",
             prefix: "",
             suffix: "",
-            labelFontSize: 13,
+            labelFontSize: 15,
             crosshair: {
                 enabled: true,
                 snapToDataPoint: true,
