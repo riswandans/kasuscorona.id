@@ -163,5 +163,15 @@
     "Daerah": "Bekasi",
     "Koordinat": "-6.193782, 106.976840",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Balikpapan",
+    "Koordinat": "-1.225933, 116.868296",
+    "Radius": 5000
+  },
+  {
+    "Daerah": "Kutai Kartanegara",
+    "Koordinat": "-1.010885, 117.044417",
+    "Radius": 2000
   }
 ]
