@@ -3,7 +3,7 @@
     "Wilayah": "DKI Jakarta",
     "Jumlah": 267,
     "Sembuh": 13,
-    "Meninggal": 19
+    "Meninggal": 23
   },
   {
     "Wilayah": "Jawa Barat",
@@ -15,7 +15,7 @@
     "Wilayah": "Banten",
     "Jumlah": 43,
     "Sembuh": 1,
-    "Meninggal": 1
+    "Meninggal": 2
   },
   {
     "Wilayah": "Jawa Timur",
@@ -52,7 +52,7 @@
     "Jumlah": 3,
     "Sembuh": 0,
     "Meninggal": 1
-  }
+  },
   {
     "Wilayah": "Sulawesi Tenggara",
     "Jumlah": 3,
