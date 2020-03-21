@@ -4,7 +4,8 @@ window.onload = function() {
             text: "",
         },
         axisX: {
-            valueFormatString: "DD MMM"
+            valueFormatString: "DD MMM",
+            labelFontSize: 13
         },
         axisY2: {
             gridThickness: 1,
@@ -12,6 +13,7 @@ window.onload = function() {
             title: "",
             prefix: "",
             suffix: "",
+            labelFontSize: 13
             crosshair: {
                 enabled: true,
                 snapToDataPoint: true,
@@ -28,7 +30,8 @@ window.onload = function() {
             verticalAlign: "top",
             horizontalAlign: "center",
             dockInsidePlotArea: true,
-            itemclick: toogleDataSeries
+            itemclick: toogleDataSeries,
+            fontFamily: "arial"
         },
         data: [{
                 type: "line",
