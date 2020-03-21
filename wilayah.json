@@ -1,31 +1,31 @@
 [
   {
     "Wilayah": "DKI Jakarta",
-    "Jumlah": 215,
+    "Jumlah": 267,
     "Sembuh": 13,
     "Meninggal": 19
   },
   {
     "Wilayah": "Jawa Barat",
-    "Jumlah": 41,
+    "Jumlah": 55,
     "Sembuh": 4,
     "Meninggal": 7
   },
   {
     "Wilayah": "Banten",
-    "Jumlah": 37,
+    "Jumlah": 43,
     "Sembuh": 1,
     "Meninggal": 1
   },
   {
     "Wilayah": "Jawa Timur",
-    "Jumlah": 15,
+    "Jumlah": 26,
     "Sembuh": 0,
     "Meninggal": 1
   },
   {
     "Wilayah": "Jawa Tengah",
-    "Jumlah": 12,
+    "Jumlah": 14,
     "Sembuh": 0,
     "Meninggal": 3
   },
@@ -47,6 +47,12 @@
     "Sembuh": 0,
     "Meninggal": 0
   },
+  {
+    "Wilayah": "Denpasar",
+    "Jumlah": 3,
+    "Sembuh": 0,
+    "Meninggal": 1
+  }
   {
     "Wilayah": "Sulawesi Tenggara",
     "Jumlah": 3,
@@ -94,11 +100,5 @@
     "Jumlah": 1,
     "Sembuh": 0,
     "Meninggal": 0
-  },
-  {
-    "Wilayah": "Denpasar",
-    "Jumlah": 1,
-    "Sembuh": 0,
-    "Meninggal": 1
   }
 ]
