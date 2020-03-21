@@ -275,6 +275,13 @@ window.onload = function() {
         title: {
             text: ""
         },
+        legend: {
+            cursor: "pointer",
+            verticalAlign: "top",
+            horizontalAlign: "center",
+            dockInsidePlotArea: true,
+            fontFamily: "arial"
+        },
         axisX: {
             interval: 1
         },
