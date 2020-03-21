@@ -153,5 +153,15 @@
     "Daerah": "Palangka raya",
     "Koordinat": "-2.210970, 113.922664",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Bogor",
+    "Koordinat": "-6.725055, 106.835352",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Bekasi",
+    "Koordinat": "-6.193782, 106.976840",
+    "Radius": 2000
   }
 ]
