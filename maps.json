@@ -178,5 +178,30 @@
     "Daerah": "Cianjur",
     "Koordinat": "-6.7981898,107.1752555",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Bandung Barat",
+    "Koordinat": "-6.831727, 107.433933",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Bantul, DI Yogyakarta",
+    "Koordinat": "-7.889572, 110.323548",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Gedong Tengen, DI Yogyakarta",
+    "Koordinat": "-7.791455, 110.361245",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Gedong Tengen, DI Yogyakarta",
+    "Koordinat": "-7.791455, 110.361245",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Berbah, DI Yogyakarta",
+    "Koordinat": "-7.805659, 110.452298",
+    "Radius": 2000
   }
 ]
