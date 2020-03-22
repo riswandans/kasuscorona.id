@@ -72,6 +72,12 @@
     "Meninggal": 0
   },
   {
+    "Wilayah": "Papua",
+    "Jumlah": 2,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+  {
     "Wilayah": "Kalimantan Tengah",
     "Jumlah": 2,
     "Sembuh": 0,
@@ -97,6 +103,12 @@
   },
   {
     "Wilayah": "Sulawesi Utara",
+    "Jumlah": 1,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+  {
+    "Wilayah": "Maluku",
     "Jumlah": 1,
     "Sembuh": 0,
     "Meninggal": 0
