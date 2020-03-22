@@ -208,5 +208,15 @@
     "Daerah": "Banjarmasin",
     "Koordinat": "-3.322905, 114.601228",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Ambon",
+    "Koordinat": "-3.708610, 128.165569",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Papua",
+    "Koordinat": "-8.481855, 140.389170",
+    "Radius": 2000
   }
 ]
