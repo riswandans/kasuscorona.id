@@ -203,5 +203,10 @@
     "Daerah": "Berbah, DI Yogyakarta",
     "Koordinat": "-7.805659, 110.452298",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Banjarmasin",
+    "Koordinat": "-3.322905, 114.601228",
+    "Radius": 2000
   }
 ]
