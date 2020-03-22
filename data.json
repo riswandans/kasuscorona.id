@@ -1,3423 +1,4052 @@
 [
   {
-    "No Kasus": 1,
-    "Jenis Kasus": "Lokal",
+    "#": 1,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
     "Status": "Sembuh",
     "Usia": 31,
-    "Tanggal Terkonfirmasi Positif": "2 Maret 2020",
-    "Wilayah": "Depok, Jawa Barat",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kontak dengan WN Jepang"
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 2,
-    "Jenis Kasus": "Lokal",
+    "#": 2,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
     "Status": "Sembuh",
     "Usia": 64,
-    "Tanggal Terkonfirmasi Positif": "2 Maret 2020",
-    "Wilayah": "Depok, Jawa Barat",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kontak dengan kasus 1"
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 3,
-    "Jenis Kasus": "Lokal",
+    "#": 3,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
     "Status": "Sembuh",
     "Usia": 33,
-    "Tanggal Terkonfirmasi Positif": "6 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kontak dengan kasus 1"
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 4,
-    "Jenis Kasus": "Lokal",
-    "Jenis Kelamin": "Unknown",
-    "Status": "Perawatan",
+    "#": 4,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
     "Usia": 34,
-    "Tanggal Terkonfirmasi Positif": "6 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kontak dengan kasus 1"
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 5,
-    "Jenis Kasus": "Lokal",
+    "#": 5,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 55,
-    "Tanggal Terkonfirmasi Positif": "8 Maret 2020",
-    "Wilayah": "DKI Jakarta",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kontak dengan kasus 1"
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 6,
-    "Jenis Kasus": "Impor",
+    "#": 6,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
     "Status": "Sembuh",
     "Usia": 36,
-    "Tanggal Terkonfirmasi Positif": "8 Maret 2020",
-    "Wilayah": "Awak Kapal",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kapal Pesiar \"World Dream\" di Pulau Sebaru, Kepulauan Seribu"
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 7,
-    "Jenis Kasus": "Impor",
+    "#": 7,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 59,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Baru kembali dari luar negeri"
-  },
-  {
-    "No Kasus": 8,
-    "Jenis Kasus": "Lokal",
-    "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 56,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kontak dengan kasus 7"
-  },
-  {
-    "No Kasus": 9,
-    "Jenis Kasus": "Impor",
-    "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 55,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Baru kembali dari luar negeri"
-  },
-  {
-    "No Kasus": 10,
-    "Jenis Kasus": "Lokal",
-    "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 29,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Asing",
-    "Informasi Tambahan": "Kontak dengan kasus 1"
-  },
-  {
-    "No Kasus": 11,
-    "Jenis Kasus": "Lokal",
-    "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Sembuh",
     "Usia": 54,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Asing",
-    "Informasi Tambahan": "Kontak dengan kasus 1"
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 12,
-    "Jenis Kasus": "Lokal",
+    "#": 8,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Sembuh",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 9,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Sembuh",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 10,
+    "Kewarganegaraan": "WNA",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 29,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 11,
+    "Kewarganegaraan": "WNA",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 54,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 12,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
     "Usia": 31,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kontak dengan kasus 1"
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 13,
-    "Jenis Kasus": "Lokal",
+    "#": 13,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Sembuh",
     "Usia": 16,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kontak dengan kasus 1, dan kasus 3"
+    "Kelompok Usia": "10-19",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 14,
-    "Jenis Kasus": "Impor",
+    "#": 14,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Sembuh",
+    "Status": "Dalam Perawatan",
     "Usia": 50,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Baru kembali dari luar negeri"
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 15,
-    "Jenis Kasus": "Impor",
+    "#": 15,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 43,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Baru kembali dari luar negeri"
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
   },
   {
-    "No Kasus": 16,
-    "Jenis Kasus": "Impor",
+    "#": 16,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 17,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kontak dengan kasus 15"
+    "Kelompok Usia": "10-19",
+    "Wilayah": "JAWA BARAT"
   },
   {
-    "No Kasus": 17,
-    "Jenis Kasus": "Impor",
+    "#": 17,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 56,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Baru kembali dari luar negeri"
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 18,
-    "Jenis Kasus": "Impor",
+    "#": 18,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 50,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Baru kembali dari luar negeri"
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
   },
   {
-    "No Kasus": 19,
-    "Jenis Kasus": "Impor",
+    "#": 19,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Sembuh",
+    "Status": "Dalam Perawatan",
     "Usia": 40,
-    "Tanggal Terkonfirmasi Positif": "9 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Baru kembali dari luar negeri"
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 20,
-    "Jenis Kasus": "Lokal",
+    "#": 20,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 70,
-    "Tanggal Terkonfirmasi Positif": "10 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Bagian dari tracing sub klaster Jakarta"
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 21,
-    "Jenis Kasus": "Lokal",
+    "#": 21,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 47,
-    "Tanggal Terkonfirmasi Positif": "10 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 22,
-    "Jenis Kasus": "Impor",
+    "#": 22,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 36,
-    "Tanggal Terkonfirmasi Positif": "10 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 23,
-    "Jenis Kasus": "Impor",
+    "#": 23,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 73,
-    "Tanggal Terkonfirmasi Positif": "10 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": "Kondisinya sedang menggunakan ventilator tapi stabil"
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 24,
-    "Jenis Kasus": "Impor",
+    "#": 24,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 46,
-    "Tanggal Terkonfirmasi Positif": "10 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 25,
-    "Jenis Kasus": "Impor",
+    "#": 25,
+    "Kewarganegaraan": "WNA",
     "Jenis Kelamin": "Perempuan",
     "Status": "Meninggal",
     "Usia": 53,
-    "Tanggal Terkonfirmasi Positif": "10 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Asing UK",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BALI"
   },
   {
-    "No Kasus": 26,
-    "Jenis Kasus": "Lokal",
+    "#": 26,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 46,
-    "Tanggal Terkonfirmasi Positif": "10 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Asing",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 27,
-    "Jenis Kasus": "Lokal",
+    "#": 27,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 33,
-    "Tanggal Terkonfirmasi Positif": "10 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 28,
-    "Jenis Kasus": "Impor",
+    "#": 28,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 37,
-    "Tanggal Terkonfirmasi Positif": "11 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 29,
-    "Jenis Kasus": "Impor",
+    "#": 29,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 51,
-    "Tanggal Terkonfirmasi Positif": "11 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 30,
-    "Jenis Kasus": "Impor",
+    "#": 30,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 84,
-    "Tanggal Terkonfirmasi Positif": "11 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 85,
+    "Kelompok Usia": "80-89",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 31,
-    "Jenis Kasus": "Impor",
+    "#": 31,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 48,
-    "Tanggal Terkonfirmasi Positif": "11 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 32,
-    "Jenis Kasus": "Impor",
+    "#": 32,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 45,
-    "Tanggal Terkonfirmasi Positif": "11 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 33,
-    "Jenis Kasus": "Impor",
+    "#": 33,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 29,
-    "Tanggal Terkonfirmasi Positif": "11 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "20-29",
+    "Wilayah": "JAWA BARAT"
   },
   {
-    "No Kasus": 34,
-    "Jenis Kasus": "Impor",
+    "#": 34,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 42,
-    "Tanggal Terkonfirmasi Positif": "11 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 35,
-    "Jenis Kasus": "-",
+    "#": 35,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
     "Status": "Meninggal",
     "Usia": 57,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
   },
   {
-    "No Kasus": 36,
-    "Jenis Kasus": "-",
+    "#": 36,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
     "Status": "Meninggal",
-    "Usia": 37,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "DKI Jakarta",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Usia": 36,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 37,
-    "Jenis Kasus": "-",
+    "#": 37,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 43,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 38,
-    "Jenis Kasus": "-",
+    "#": 38,
+    "Kewarganegaraan": "WNA",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 80,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "80-89",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 39,
-    "Jenis Kasus": "-",
+    "#": 39,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Meninggal",
     "Usia": 54,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 40,
-    "Jenis Kasus": "-",
+    "#": 40,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 46,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 41,
-    "Jenis Kasus": "-",
+    "#": 41,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 40,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
   },
   {
-    "No Kasus": 42,
-    "Jenis Kasus": "-",
+    "#": 42,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 66,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 43,
-    "Jenis Kasus": "-",
+    "#": 43,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 34,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 44,
-    "Jenis Kasus": "-",
+    "#": 44,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 57,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
   },
   {
-    "No Kasus": 45,
-    "Jenis Kasus": "-",
+    "#": 45,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 29,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 46,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 30,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "#": 46,
+    "Kewarganegaraan": "WNA",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 47,
-    "Jenis Kasus": "-",
+    "#": 47,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 61,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 48,
-    "Jenis Kasus": "-",
+    "#": 48,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 35,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "30-39",
+    "Wilayah": "BANTEN"
   },
   {
-    "No Kasus": 49,
-    "Jenis Kasus": "-",
+    "#": 49,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
     "Usia": 3,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "0-9",
+    "Wilayah": "DI YOGYAKARTA"
   },
   {
-    "No Kasus": 50,
-    "Jenis Kasus": "Lokal",
+    "#": 50,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Meninggal",
+    "Usia": 59,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 51,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 60,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 52,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 59,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 53,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 24,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 54,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 2,
+    "Kelompok Usia": "0-9",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 55,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 26,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 56,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 58,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 57,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 27,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 58,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 59,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 63,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 60,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 25,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 61,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 58,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 62,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "SULAWESI UTARA"
+  },
+  {
+    "#": 63,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "KALIMANTAN BARAT"
+  },
+  {
+    "#": 64,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 65,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 66,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 73,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 67,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 25,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 68,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 38,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 69,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 80,
+    "Kelompok Usia": "80-89",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 70,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 71,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Meninggal",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 72,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
     "Status": "Meninggal",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 73,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 70,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 74,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Meninggal",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 75,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 64,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 76,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 64,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 77,
+    "Kewarganegaraan": "WNA",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 78,
+    "Kewarganegaraan": "WNA",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 69,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 79,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 36,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 80,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 81,
+    "Kewarganegaraan": "WNA",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 86,
+    "Kelompok Usia": "80-89",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 82,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 68,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 83,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 43,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 84,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 78,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 85,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 86,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 67,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 87,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Meninggal",
+    "Usia": 66,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 88,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 20,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 89,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 90,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 31,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 91,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 42,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 92,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 39,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 93,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 61,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 94,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
     "Usia": 57,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "Surakarta, Solo",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
   },
   {
-    "No Kasus": 51,
-    "Jenis Kasus": "-",
+    "#": 95,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 96,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 97,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 98,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 60,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 52,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 59,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 53,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 24,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 54,
-    "Jenis Kasus": "-",
+    "#": 99,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 2,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Meninggal",
+    "Usia": 41,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 55,
-    "Jenis Kasus": "-",
+    "#": 100,
+    "Kewarganegaraan": "WNA",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 26,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 70,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 56,
-    "Jenis Kasus": "-",
+    "#": 101,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 58,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 43,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 57,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "#": 102,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 39,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 103,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 104,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 105,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 106,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 40,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 107,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 108,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
     "Usia": 27,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 58,
-    "Jenis Kasus": "-",
+    "#": 109,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 51,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Meninggal",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 59,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 63,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 60,
-    "Jenis Kasus": "-",
+    "#": 110,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 25,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 67,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 61,
-    "Jenis Kasus": "-",
+    "#": 111,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 112,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 58,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 62,
-    "Jenis Kasus": "-",
+    "#": 113,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 51,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Meninggal",
+    "Usia": 54,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 63,
-    "Jenis Kasus": "-",
+    "#": 114,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
+    "Usia": 66,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 115,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 29,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 116,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Meninggal",
+    "Usia": 72,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 117,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Meninggal",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 118,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Meninggal",
+    "Usia": 43,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 119,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 120,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 74,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 121,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 122,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 74,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 123,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 36,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 124,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 43,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 125,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 126,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 127,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 32,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 128,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 26,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 129,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 42,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 130,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 40,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 131,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 132,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 133,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 37,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 134,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 22,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 135,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 22,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 136,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 40,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 137,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 30,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 138,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
     "Usia": 34,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 64,
-    "Jenis Kasus": "-",
+    "#": 139,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 49,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 65,
-    "Jenis Kasus": "-",
+    "#": 140,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 48,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 71,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "KEPULAUAN RIAU"
   },
   {
-    "No Kasus": 66,
-    "Jenis Kasus": "-",
+    "#": 141,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-laki",
-    "Status": "Perawatan",
-    "Usia": 73,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 22,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "JAWA TIMUR"
   },
   {
-    "No Kasus": 67,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 25,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "#": 142,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TIMUR"
   },
   {
-    "No Kasus": 68,
-    "Jenis Kasus": "-",
+    "#": 143,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
-    "Usia": 38,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 69,
-    "Jenis Kasus": "-",
+    "#": 144,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 145,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 146,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Perempuan",
-    "Status": "Perawatan",
+    "Status": "Dalam Perawatan",
+    "Usia": 74,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 147,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 148,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 149,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 45,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 150,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 151,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 152,
+    "Kewarganegaraan": "?",
+    "Jenis Kelamin": "?",
+    "Status": "?",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 153,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 154,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 70,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 155,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 72,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 156,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 59,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 157,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 19,
+    "Kelompok Usia": "10-19",
+    "Wilayah": "KALIMANTAN BARAT"
+  },
+  {
+    "#": 158,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
     "Usia": 80,
-    "Tanggal Terkonfirmasi Positif": "13 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "Kelompok Usia": "80-89",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 70,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "#": 159,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 71,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "#": 160,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 72,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "#": 161,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 73,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "#": 162,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 74,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "#": 163,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
   },
   {
-    "No Kasus": 75,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
+    "#": 164,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TIMUR"
   },
   {
-    "No Kasus": 76,
-    "Jenis Kasus": "-",
+    "#": 165,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 43,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 166,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 167,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 168,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 38,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 169,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 170,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 32,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 171,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 67,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 172,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 36,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 173,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 174,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 20,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 175,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 26,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 176,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 177,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 43,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 178,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 179,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 180,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 25,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 181,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 22,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 182,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 47,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 183,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 184,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 63,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 185,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 60,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 186,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 60,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 187,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 71,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 188,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 189,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 39,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 190,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 66,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 191,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 192,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 17,
+    "Kelompok Usia": "10-19",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 193,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 63,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "RIAU"
+  },
+  {
+    "#": 194,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 62,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "LAMPUNG"
+  },
+  {
+    "#": 195,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 37,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 196,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 60,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 197,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 27,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 198,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 21,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 199,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 200,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 201,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 31,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 202,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "SUMATERA UTARA"
+  },
+  {
+    "#": 203,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 83,
+    "Kelompok Usia": "80-89",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 204,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 205,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 59,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 206,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 207,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 208,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 209,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 53,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 210,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 71,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 211,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 69,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 212,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 213,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 24,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 214,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 38,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 215,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 27,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 216,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 217,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 218,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 219,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 26,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 220,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 221,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 24,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 222,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 35,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 223,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 224,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 225,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 226,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 78,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 227,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 63,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 228,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DI YOGYAKARTA"
+  },
+  {
+    "#": 229,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 230,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 26,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 231,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 232,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 233,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 20,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 234,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 235,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 60,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DI YOGYAKARTA"
+  },
+  {
+    "#": 236,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 37,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 237,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 54,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 238,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 38,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 239,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 64,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 240,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 241,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 41,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "SULAWESI TENGGARA"
+  },
+  {
+    "#": 242,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 25,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "SULAWESI TENGGARA"
+  },
+  {
+    "#": 243,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 32,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "SULAWESI TENGGARA"
+  },
+  {
+    "#": 244,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 1,
+    "Kelompok Usia": "0-9",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 245,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 25,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 246,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 43,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 247,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 39,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 248,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 39,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 249,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 40,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 250,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 251,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 252,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 22,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 253,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 254,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 59,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 255,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 256,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 60,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 257,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 258,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 37,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 259,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 260,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 76,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 261,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 47,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 262,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 70,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 263,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 26,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 264,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 32,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 265,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "KEPULAUAN RIAU"
+  },
+  {
+    "#": 266,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 45,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "KEPULAUAN RIAU"
+  },
+  {
+    "#": 267,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 268,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 269,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 47,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 270,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 76,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 271,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 272,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 47,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 273,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 274,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 47,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 275,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 60,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 276,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 30,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 277,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 278,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 27,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 279,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "SUMATERA UTARA"
+  },
+  {
+    "#": 280,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 281,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 282,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 62,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 283,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 284,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 63,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 285,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "SULAWESI SELATAN"
+  },
+  {
+    "#": 286,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 54,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "SULAWESI SELATAN"
+  },
+  {
+    "#": 287,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 39,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 288,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 41,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 289,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 290,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 46,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 291,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 36,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 292,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 42,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 293,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 294,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 295,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 41,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 296,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 297,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 298,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 299,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 300,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 301,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 37,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 302,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 303,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 37,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 304,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 305,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 306,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 63,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 307,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 308,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 39,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 309,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 310,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 311,
+    "Kewarganegaraan": "WNI",
     "Jenis Kelamin": "Laki-Laki",
-    "Status": "Perawatan",
-    "Usia": "63",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "DKI Jakarta",
-    "Kewarganegaraan": "Warga Negara Indonesia",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 77,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 78,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 79,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 80,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 81,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 82,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 83,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 84,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 85,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 86,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 87,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 88,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 89,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 90,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 91,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 92,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 93,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 94,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 95,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 96,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "14 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 97,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 98,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 99,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 100,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 101,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 102,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 103,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 104,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 105,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 106,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 107,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 108,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 109,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 110,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 111,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 112,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 113,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 114,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 115,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 116,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 117,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "15 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 118,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 119,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 120,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 121,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 122,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 123,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 124,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 125,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 126,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 127,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 128,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 129,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 130,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 131,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 132,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 133,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 134,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "16 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 135,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 136,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 137,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 138,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 139,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 140,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 141,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 142,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 143,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 144,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 145,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 146,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 147,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 148,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 149,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 150,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 151,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 152,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 153,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 154,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 155,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 156,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 157,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 158,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 159,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 160,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 161,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 162,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 163,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 164,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 165,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 166,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 167,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 168,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 169,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 170,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 171,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 172,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "17 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": ""
-  },
-  {
-    "No Kasus": 173,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 174,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 175,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 176,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 177,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 178,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 179,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 180,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 181,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 182,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 183,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 184,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 185,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 186,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 187,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 188,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 189,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 190,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 191,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 192,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 193,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 194,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 195,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 196,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 197,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 198,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 199,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 200,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 201,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 202,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 203,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 204,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 205,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 206,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 207,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 208,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 209,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 210,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 211,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 212,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 213,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 214,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 215,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 216,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 217,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 218,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 219,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 220,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 221,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 222,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 223,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 224,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 225,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 226,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 227,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "18 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 228,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 229,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 230,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 231,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 232,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 233,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 234,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 235,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 236,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 237,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 238,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 239,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 240,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 241,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 242,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 243,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 244,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 245,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 246,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 247,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 248,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 249,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 250,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 251,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 252,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 253,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 254,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 255,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 256,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 257,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 258,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 259,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 260,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 261,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 262,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 263,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 264,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 265,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 266,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 267,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 268,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 269,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 270,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 271,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 272,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 273,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 274,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 275,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 276,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 277,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 278,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 279,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 280,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 281,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 282,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 283,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 284,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 285,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 286,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 287,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 288,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 289,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 290,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 291,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 292,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 293,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 294,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 295,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 296,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 297,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 298,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 299,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 300,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 301,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 302,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 303,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 304,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 305,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 306,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 307,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 308,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 309,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 310,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
-  },
-  {
-    "No Kasus": 311,
-    "Jenis Kasus": "-",
-    "Jenis Kelamin": "-",
-    "Status": "Perawatan",
-    "Usia": "-",
-    "Tanggal Terkonfirmasi Positif": "19 Maret 2020",
-    "Wilayah": "-",
-    "Kewarganegaraan": "-",
-    "Informasi Tambahan": "-"
+    "Status": "Dalam Perawatan",
+    "Usia": 76,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 312,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 54,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 313,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 41,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 314,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 33,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 315,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 316,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 72,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "BALI"
+  },
+  {
+    "#": 317,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 318,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 33,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 319,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 53,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 320,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 321,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 23,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 322,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 323,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 35,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 324,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 37,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 325,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 38,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 326,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 37,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 327,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 328,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 47,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 329,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 62,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 330,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 53,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 331,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 47,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 332,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 67,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 333,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 334,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 64,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 335,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 60,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 336,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 337,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 31,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 338,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 45,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 339,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 340,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 341,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 85,
+    "Kelompok Usia": "80-89",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 342,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 343,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 31,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 344,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 27,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 345,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 39,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "BALI"
+  },
+  {
+    "#": 346,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "KALIMANTAN TIMUR"
+  },
+  {
+    "#": 347,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 30,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 348,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 30,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 349,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 45,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 350,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 31,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 351,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 31,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 352,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 30,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 353,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 58,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 354,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 38,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 355,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 356,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 0,
+    "Kelompok Usia": "0-9",
+    "Wilayah": "BALI"
+  },
+  {
+    "#": 357,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 51,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 358,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 359,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 62,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 360,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 361,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 362,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 24,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 363,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 25,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 364,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 365,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 366,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 68,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 367,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 368,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 369,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 370,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 371,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 372,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 28,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 373,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 23,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 374,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 375,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 30,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 376,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 36,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 377,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 378,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 25,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 379,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 40,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 380,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 381,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 35,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 382,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 383,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 38,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 384,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Meninggal",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 385,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 54,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 386,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 45,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 387,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 38,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 388,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 76,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 389,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 69,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 390,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 391,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 71,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 392,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 0,
+    "Kelompok Usia": "0-9",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 393,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 63,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 394,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 46,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 395,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 0,
+    "Kelompok Usia": "0-9",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 396,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 50,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 397,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 398,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 29,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 399,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 400,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 75,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 401,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 62,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 402,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 45,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA TENGAH"
+  },
+  {
+    "#": 403,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 44,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 404,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 405,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 68,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 406,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 53,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 407,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 31,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 408,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 53,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 409,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 410,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 40,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 411,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": "?",
+    "Kelompok Usia": "?",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 412,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 69,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 413,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 59,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 414,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 60,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 415,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 416,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 61,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 417,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 53,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 418,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 33,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 419,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 420,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 421,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 47,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 422,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 423,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 64,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 424,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 55,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 425,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 426,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 427,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 49,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 428,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 29,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 429,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 25,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 430,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 21,
+    "Kelompok Usia": "20-29",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 431,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 53,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 432,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA TIMUR"
+  },
+  {
+    "#": 433,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "Tidak diketahui"
+  },
+  {
+    "#": 434,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 57,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 435,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 31,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 436,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 30,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 437,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 52,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 438,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 54,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 439,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 56,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 440,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 34,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 441,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 48,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "BANTEN"
+  },
+  {
+    "#": 442,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 65,
+    "Kelompok Usia": "60-69",
+    "Wilayah": "DKI JAKARTA"
+  },
+  {
+    "#": 443,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 32,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 444,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 53,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 445,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 53,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 446,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 39,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 447,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 59,
+    "Kelompok Usia": "50-59",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 448,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 47,
+    "Kelompok Usia": "40-49",
+    "Wilayah": "JAWA BARAT"
+  },
+  {
+    "#": 449,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Perempuan",
+    "Status": "Dalam Perawatan",
+    "Usia": 30,
+    "Kelompok Usia": "30-39",
+    "Wilayah": "DI YOGYAKARTA"
+  },
+  {
+    "#": 450,
+    "Kewarganegaraan": "WNI",
+    "Jenis Kelamin": "Laki-Laki",
+    "Status": "Dalam Perawatan",
+    "Usia": 74,
+    "Kelompok Usia": "70-79",
+    "Wilayah": "JAWA TENGAH"
   }
 ]
