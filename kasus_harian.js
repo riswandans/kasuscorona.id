@@ -107,7 +107,12 @@ window.onload = function() {
                     {
                         x: new Date(2020, 02, 23),
                         y: 579
+                    },
+                    {
+                        x: new Date(2020, 02, 24),
+                        y: 686
                     }
+
                 ]
             },
             {
@@ -185,7 +190,12 @@ window.onload = function() {
                     {
                         x: new Date(2020, 02, 23),
                         y: 65
+                    },
+                    {
+                        x: new Date(2020, 02, 24),
+                        y: 107
                     }
+
                 ]
             },
             {
@@ -235,7 +245,12 @@ window.onload = function() {
                     {
                         x: new Date(2020, 02, 23),
                         y: 1
+                    },
+                    {
+                        x: new Date(2020, 02, 24),
+                        y: 5
                     }
+
                 ]
             },
             {
@@ -293,7 +308,12 @@ window.onload = function() {
                     {
                         x: new Date(2020, 02, 23),
                         y: 1
+                    },
+                    {
+                        x: new Date(2020, 02, 24),
+                        y: 0
                     }
+
                 ]
             },
         ]
