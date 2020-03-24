@@ -218,5 +218,15 @@
     "Daerah": "Papua",
     "Koordinat": "-8.481855, 140.389170",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Palembang",
+    "Koordinat": "-2.966361, 104.750525",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Mataram",
+    "Koordinat": "-8.592049, 116.107266",
+    "Radius": 2000
   }
 ]
