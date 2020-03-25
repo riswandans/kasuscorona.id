@@ -228,5 +228,15 @@
     "Daerah": "Mataram",
     "Koordinat": "-8.592049, 116.107266",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Pekalongan",
+    "Koordinat": "-6.881520, 109.667492",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Banyumas",
+    "Koordinat": "-7.529389, 109.292603",
+    "Radius": 2000
   }
 ]
