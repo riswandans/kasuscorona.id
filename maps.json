@@ -238,5 +238,25 @@
     "Daerah": "Banyumas",
     "Koordinat": "-7.529389, 109.292603",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Madiun",
+    "Koordinat": "-7.626547, 111.523819",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Sidoarjo",
+    "Koordinat": "-7.465508, 112.716585",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Kediri",
+    "Koordinat": "-7.760539, 112.176209",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Malang",
+    "Koordinat": "-8.143769, 112.569666",
+    "Radius": 2000
   }
 ]
