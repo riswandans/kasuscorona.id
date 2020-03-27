@@ -258,5 +258,25 @@
     "Daerah": "Malang",
     "Koordinat": "-8.143769, 112.569666",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Sorong, Papua Barat",
+    "Koordinat": "-0.870312, 131.247794",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Aceh",
+    "Koordinat": "5.549739, 95.321578",
+    "Radius": 4000
+  },
+  {
+    "Daerah": "Aceh",
+    "Koordinat": "-0.303014, 100.376086",
+    "Radius": 4000
+  },
+  {
+    "Daerah": "Sumatera Barat",
+    "Koordinat": "-0.303014, 100.376086",
+    "Radius": 4000
   }
 ]
