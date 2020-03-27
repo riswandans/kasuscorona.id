@@ -1,45 +1,45 @@
 [
   {
     "Wilayah": "DKI Jakarta",
-    "Jumlah": 515,
-    "Sembuh": 23,
-    "Meninggal": 31
+    "Jumlah": 598,
+    "Sembuh": 31,
+    "Meninggal": 51
   },
   {
     "Wilayah": "Jawa Barat",
-    "Jumlah": 78,
+    "Jumlah": 98,
     "Sembuh": 5,
-    "Meninggal": 10
+    "Meninggal": 14
   },
   {
     "Wilayah": "Banten",
-    "Jumlah": 67,
+    "Jumlah": 84,
     "Sembuh": 1,
     "Meninggal": 4
   },
   {
     "Wilayah": "Jawa Timur",
-    "Jumlah": 59,
-    "Sembuh": 0,
-    "Meninggal": 1
+    "Jumlah": 66,
+    "Sembuh": 8,
+    "Meninggal": 4
   },
   {
     "Wilayah": "Jawa Tengah",
-    "Jumlah": 40,
+    "Jumlah": 43,
     "Sembuh": 0,
-    "Meninggal": 3
+    "Meninggal": 6
   },
   {
     "Wilayah": "Sulawesi Selatan",
-    "Jumlah": 27,
+    "Jumlah": 29,
     "Sembuh": 0,
     "Meninggal": 1
   },
   {
     "Wilayah": "DI Yogyakarta",
-    "Jumlah": 17,
+    "Jumlah": 22,
     "Sembuh": 1,
-    "Meninggal": 1
+    "Meninggal": 2
   },
   {
     "Wilayah": "Kalimantan Timur",
@@ -51,17 +51,41 @@
     "Wilayah": "Denpasar",
     "Jumlah": 9,
     "Sembuh": 0,
-    "Meninggal": 1
+    "Meninggal": 2
   },
   {
     "Wilayah": "Sumatera Utara",
-    "Jumlah": 7,
+    "Jumlah": 8,
     "Sembuh": 0,
     "Meninggal": 1
   },
   {
+    "Wilayah": "Papua",
+    "Jumlah": 7,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+  {
+    "Wilayah": "Kalimantan Tengah",
+    "Jumlah": 6,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+  {
     "Wilayah": "Kepulauan Riau",
     "Jumlah": 5,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+  {
+    "Wilayah": "Sumatera Barat",
+    "Jumlah": 5,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+  {
+    "Wilayah": "Aceh",
+    "Jumlah": 4,
     "Sembuh": 0,
     "Meninggal": 0
   },
@@ -78,14 +102,8 @@
     "Meninggal": 0
   },
   {
-    "Wilayah": "Kalimantan Tengah",
-    "Jumlah": 3,
-    "Sembuh": 0,
-    "Meninggal": 0
-  },
-  {
-    "Wilayah": "Papua",
-    "Jumlah": 3,
+    "Wilayah": "Papua Barat",
+    "Jumlah": 2,
     "Sembuh": 0,
     "Meninggal": 0
   },
