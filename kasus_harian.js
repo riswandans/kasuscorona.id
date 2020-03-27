@@ -119,9 +119,11 @@ window.onload = function() {
                     {
                         x: new Date(2020, 02, 26),
                         y: 893
+                    },
+                    {
+                        x: new Date(2020, 02, 27),
+                        y: 1046
                     }
-
-
                 ]
             },
             {
@@ -211,8 +213,11 @@ window.onload = function() {
                     {
                         x: new Date(2020, 02, 26),
                         y: 103
+                    },
+                    {
+                        x: new Date(2020, 02, 27),
+                        y: 153
                     }
-
                 ]
             },
             {
@@ -274,8 +279,11 @@ window.onload = function() {
                     {
                         x: new Date(2020, 02, 26),
                         y: 23
+                    },
+                    {
+                        x: new Date(2020, 02, 27),
+                        y: 9
                     }
-
                 ]
             },
             {
@@ -345,6 +353,10 @@ window.onload = function() {
                     {
                         x: new Date(2020, 02, 26),
                         y: 4
+                    },
+                    {
+                        x: new Date(2020, 02, 27),
+                        y: 9
                     }
                 ]
             },
