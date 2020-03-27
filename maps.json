@@ -278,5 +278,15 @@
     "Daerah": "Sumatera Barat",
     "Koordinat": "-0.303014, 100.376086",
     "Radius": 4000
+  },
+  {
+    "Daerah": "Tasikmalaya",
+    "Koordinat": "-7.331119, 108.228287",
+    "Radius": 2000
+  },
+  {
+    "Daerah": "Sukabumi",
+    "Koordinat": "-6.921678, 106.923138",
+    "Radius": 2000
   }
 ]
