@@ -294,7 +294,7 @@ window.onload = function() {
                     },
                     {
                         x: new Date(2020, 02, 28),
-                        y: 102
+                        y: 15
                     }
                 ]
             },
