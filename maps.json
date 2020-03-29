@@ -288,5 +288,10 @@
     "Daerah": "Sukabumi",
     "Koordinat": "-6.921678, 106.923138",
     "Radius": 2000
+  },
+  {
+    "Daerah": "Tarakan",
+    "Koordinat": "3.314056, 117.605562",
+    "Radius": 3000
   }
 ]
