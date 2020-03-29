@@ -1,37 +1,37 @@
 [
   {
     "Wilayah": "DKI Jakarta",
-    "Jumlah": 598,
-    "Sembuh": 31,
-    "Meninggal": 51
+    "Jumlah": 675,
+    "Sembuh": 45,
+    "Meninggal": 68
   },
   {
     "Wilayah": "Jawa Barat",
-    "Jumlah": 98,
-    "Sembuh": 5,
-    "Meninggal": 14
+    "Jumlah": 149,
+    "Sembuh": 6,
+    "Meninggal": 19
   },
   {
     "Wilayah": "Banten",
-    "Jumlah": 84,
+    "Jumlah": 106,
     "Sembuh": 1,
     "Meninggal": 4
   },
   {
     "Wilayah": "Jawa Timur",
-    "Jumlah": 66,
-    "Sembuh": 8,
-    "Meninggal": 4
+    "Jumlah": 90,
+    "Sembuh": 11,
+    "Meninggal": 7
   },
   {
     "Wilayah": "Jawa Tengah",
-    "Jumlah": 43,
+    "Jumlah": 63,
     "Sembuh": 0,
-    "Meninggal": 6
+    "Meninggal": 7
   },
   {
     "Wilayah": "Sulawesi Selatan",
-    "Jumlah": 29,
+    "Jumlah": 47,
     "Sembuh": 0,
     "Meninggal": 1
   },
@@ -43,15 +43,21 @@
   },
   {
     "Wilayah": "Kalimantan Timur",
-    "Jumlah": 11,
+    "Jumlah": 17,
     "Sembuh": 0,
     "Meninggal": 0
   },
   {
     "Wilayah": "Denpasar",
-    "Jumlah": 9,
+    "Jumlah": 10,
     "Sembuh": 0,
     "Meninggal": 2
+  },
+  {
+    "Wilayah": "Papua",
+    "Jumlah": 9,
+    "Sembuh": 0,
+    "Meninggal": 0
   },
   {
     "Wilayah": "Sumatera Utara",
@@ -60,14 +66,20 @@
     "Meninggal": 1
   },
   {
-    "Wilayah": "Papua",
-    "Jumlah": 7,
+    "Wilayah": "Kalimantan Barat",
+    "Jumlah": 8,
     "Sembuh": 0,
     "Meninggal": 0
   },
   {
     "Wilayah": "Kalimantan Tengah",
-    "Jumlah": 6,
+    "Jumlah": 7,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+    {
+    "Wilayah": "Aceh",
+    "Jumlah": 5,
     "Sembuh": 0,
     "Meninggal": 0
   },
@@ -84,19 +96,13 @@
     "Meninggal": 0
   },
   {
-    "Wilayah": "Aceh",
+    "Wilayah": "Lampung",
     "Jumlah": 4,
     "Sembuh": 0,
     "Meninggal": 0
-  },
+  }
   {
     "Wilayah": "Sulawesi Tenggara",
-    "Jumlah": 3,
-    "Sembuh": 0,
-    "Meninggal": 0
-  },
-  {
-    "Wilayah": "Kalimantan Barat",
     "Jumlah": 3,
     "Sembuh": 0,
     "Meninggal": 0
@@ -120,7 +126,25 @@
     "Meninggal": 0
   },
   {
+    "Wilayah": "Kalimantan Utara",
+    "Jumlah": 2,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+  {
     "Wilayah": "Kalimantan Selatan",
+    "Jumlah": 2,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+  {
+    "Wilayah": "Sulawesi Utara",
+    "Jumlah": 2,
+    "Sembuh": 0,
+    "Meninggal": 0
+  },
+  {
+    "Wilayah": "Sulawesi Tengah",
     "Jumlah": 2,
     "Sembuh": 0,
     "Meninggal": 0
@@ -144,19 +168,13 @@
     "Meninggal": 0
   },
   {
-    "Wilayah": "Sulawesi Utara",
+    "Wilayah": "Sulawesi Barat",
     "Jumlah": 1,
     "Sembuh": 0,
     "Meninggal": 0
   },
   {
     "Wilayah": "Sumatera Selatan",
-    "Jumlah": 1,
-    "Sembuh": 0,
-    "Meninggal": 0
-  },
-  {
-    "Wilayah": "Lampung",
     "Jumlah": 1,
     "Sembuh": 0,
     "Meninggal": 0
